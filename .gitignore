@@ -1,0 +1,10 @@
+# IDEA
+.idea
+*.iml
+out
+
+# Mac OS
+.DS_Store
+
+packaged
+other_bots
