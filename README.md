@@ -16,7 +16,7 @@
 7. Check in Github that your class appeared in repository.
 8. Congrats!
 
-### How to add your bot from IDEA to Robocode
+### Add your bot from IDEA to Robocode
 
 1. Make sure that when you compile(Build project action), compile code goes to out/production/robocode-bots 
 2. https://robowiki.net/wiki/Robocode/Add_a_Robot_Project but set path to out/production/robocode-bots
